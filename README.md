@@ -49,3 +49,20 @@ These notes are perfect for:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/numpy-pandas-viz-notes.git
+
+2. Run locally with Jupyter notebook or run online via Colab by clicking any of the "Open in Colab" buttons above.
+
+---
+
+## ⭐ Contribute or Support
+
+**If you find this helpful:**
+
+   🌟 Star the repository
+
+   🍴 Fork it and build on it
+
+   🐛 Open an issue for suggestions or bugs
+
+   📢 Share with others in the data community
+
